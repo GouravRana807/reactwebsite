@@ -35,7 +35,7 @@ const App = () => {
             <span>
               <img
                 className="yoj"
-                src="../img/icons8-image-30.png"
+                src="../public/img/icons8-image-30.png"
                 width="30px"
                 height="40px"
                 alt=""
